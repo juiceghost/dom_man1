@@ -1,3 +1,11 @@
 h1 {
      font-family: "Helvetica", sans-serif;
 }
+
+.colorMeRed {
+     color: red;
+}
+
+.hideMe {
+     display: none;
+}
